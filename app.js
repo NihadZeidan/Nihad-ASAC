@@ -18,7 +18,7 @@ var rating =  prompt('Please rate my website!');
 document.write('<br>'+ 'You gave us ' + rating + ' stars' + '<br/>' );
 
 
-// rating = typeof 55
+// // rating = typeof 55
 
 // while( rating != typeof 6) {
 //     rating = prompt('Please enter only numbers!');
