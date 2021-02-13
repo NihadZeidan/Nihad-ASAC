@@ -17,4 +17,6 @@
 [Link for HTML page](index.html)
 
 
+##### Kindly note that I used some codes form (w3schools.com) and editing it to fit on my HTML page. 
+
 
